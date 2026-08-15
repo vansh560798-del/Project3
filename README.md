@@ -57,15 +57,19 @@ Prints a pyramid-like pattern using increasing and decreasing numbers.
 
 Uses `*` symbols and conditions to create the letter **P**.
 
-## 🛠️ Technologies Used
+## 🛠️ Screenshots of The Code
 
-* **Language:** C
-* **Compiler:** GCC / Clang
-* **Editor:** VS Code / Code::Blocks / Dev-C++ / Any C IDE
+<img width="1440" height="900" alt="Untitled" src="https://github.com/user-attachments/assets/ec93a7ea-4205-4c5a-8f16-2586574efaf4" />
+
+<img width="1440" height="900" alt="Untitled 2" src="https://github.com/user-attachments/assets/f0ab37f8-60ef-4335-b1f6-9a7276718a81" />
+
+<img width="1440" height="900" alt="Untitled 3" src="https://github.com/user-attachments/assets/ae41699a-c99e-477d-a9d2-4b66d39ee612" />
+
+## 🛠️ Screenshots of The Result
+
+<img width="1440" height="900" alt="result" src="https://github.com/user-attachments/assets/a4d45036-e787-4bbf-9ac6-5686fe649fa1" />
 
 ## ▶️ How to Run
-
-### 1. Compile the program
 
 Using GCC:
 
